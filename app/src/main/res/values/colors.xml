@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="divideColor">#ddd</color>
+    <color name="orange_800">#EF6C00</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_700">#616161</color>
+    <color name="toolbar_color_grey">#f9f9f9</color>
+    <color name="tablayout_color_grey">#f5f5f5</color>
+    <color name="des_divider_color">#eeeeee</color>
+
+</resources>
